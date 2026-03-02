@@ -1,0 +1,41 @@
+{
+  "name": "react-kenburns-view",
+  "version": "1.0.0",
+  "description": "Ken Burns effect (zoom + pan) for React web applications. Lightweight, no native code.",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "require": "./src/index.js"
+    }
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nHiRanZ/react-kenburns-view.git"
+  },
+  "keywords": [
+    "react",
+    "kenburns",
+    "zoom",
+    "pan",
+    "image",
+    "animation"
+  ],
+  "author": "Nimila Hiranya Samarasinghe",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {}
+}
