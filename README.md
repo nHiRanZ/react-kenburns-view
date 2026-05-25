@@ -22,15 +22,7 @@ npm install react-kenburns-view
 
 ## Demo
 
-Run the demo app (Vite + React) from the `demo` folder:
-
-```bash
-cd demo
-npm install
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173).
+The interactive demo lives in [react-library-demos](https://github.com/nHiRanZ/react-library-demos) under [`react-kenburns-view/`](https://github.com/nHiRanZ/react-library-demos/tree/main/react-kenburns-view). See that folder's [README](https://github.com/nHiRanZ/react-library-demos/blob/main/react-kenburns-view/README.md) for setup (clone both repos as siblings, then `npm install` and `npm run dev`).
 
 ## Usage
 
