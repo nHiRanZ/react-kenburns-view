@@ -1,6 +1,6 @@
 {
   "name": "react-kenburns-view",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Ken Burns effect (zoom + pan) for React web applications. Lightweight, no native code.",
   "main": "src/index.js",
   "module": "src/index.js",
